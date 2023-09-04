@@ -3,7 +3,7 @@
 	--primary: #d8cfd4;
 	--business: #3a82ee;
 	--personal: var(--primary);
-	--light: #EEE;
+	--light: #f0e9e9;
 	--grey: #888;
 	--dark: #313154;
 	--danger: #797474;
@@ -81,7 +81,7 @@ h4 {
 	font-size: 1.125rem;
 	padding: 1rem 1.5rem;
 	color: var(--dark);
-	background-color: #FFF;
+	background-color: #f7f7f7;
 	border-radius: 0.5rem;
 	box-shadow: var(--shadow);
 	margin-bottom: 1.5rem;
@@ -100,7 +100,7 @@ h4 {
 	align-items: center;
 	justify-content: center;
 	background-color: #FFF;
-	padding: 1.5rem;
+	padding: 0.1rem;
 	box-shadow: var(--shadow);
 	border-radius: 0.5rem;
 	cursor: pointer;
